@@ -1,0 +1,8 @@
+2023-09-24 19:51:06.626 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-09-24 19:51:06.643 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-09-24 19:51:08.441 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-es
+2023-09-24 19:51:08.529 [info] Extracted extension to file:///root/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.82.2023091309: ms-ceintl.vscode-language-pack-es
+2023-09-24 19:51:08.532 [info] Renamed to /root/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.82.2023091309
+2023-09-24 19:51:08.533 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2023-09-24 19:51:08.537 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-09-24 19:51:08.583 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
